@@ -5,15 +5,4 @@ all are changed!!!
 all are changed!!!
 all are changed!!!
 all are changed!!!
-all are changed!!!
-all are changed!!!
-all are changed!!!
-all are changed!!!
-
-<<<<<<< HEAD
-
-
-master
-hot-fixed
-=======
->>>>>>> hot-fix
+爷们要战斗,爷们要战斗!!!
